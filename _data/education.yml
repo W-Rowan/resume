@@ -1,13 +1,22 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: PhD Computer Science
+  uni: University of York
+  year: 2020 &mdash; 2023
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Full EPSRC Scholarship 
+  summary: Editor of York Vision, York's award-winning tabloid student newspaper.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: MSc Advanced Computer Science
+  uni: University of York
+  year: 2019 &mdash; 2020
+  awards:
+    - award: Highest Marked Masters Dissertation
+  summary: Editor of The Lemon Press, the UK's largest university satire magasine.
+
+- degree: BEng Computer Science
+  uni: University of York
+  year: 2016 &mdash; 2019
+  awards:
+    - award: Highest Marked Undergraduate Dissertation
+    - award: IBM scholarship
+  summary: Scholarship awarded for the top three applicants to the undergraduate program.
