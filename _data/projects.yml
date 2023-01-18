@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: The Effectiveness of Temporal Dependency in Deepfake Video Detection
+  role: Lead Researcher
+  duration: 2020
+  url: "https://arxiv.org/abs/2205.06684"
+  description: We find that temporal dependency produces a statistically significant (p < 0.05) increase in performance in classifying real images for the model using automatic feature selection, demonstrating that spatio-temporal information can increase the performance of deepfake video detection models.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Gaze Estimation Using Deep Learning
+  role: Lead Researcher
+  duration: 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: I investigated the effectiveness of computer-vision based methods for unconstrained gaze estimation, making recommendations for future approaches through experimental findings.
