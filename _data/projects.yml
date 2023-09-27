@@ -7,7 +7,7 @@
   role: "Lead Researcher"
   duration: 2023
   url: "https://arxiv.org/pdf/2307.13639"
-  description: "We present the largest publicly-available dataset for 3D face reconstruction. We achieve this by employing a novel data generation pipeline using conditioned Stable Diffusion. We introduce this large-scale synthesised dataset of 250K photorealistic images and corresponding 3DMM parameters. We further propose ControlFace, a deep neural network, trained on SynthFace, which achieves competitive performance on the NoW benchmark, without requiring 3D supervision or manual 3D asset creation."
+  description: "We present the largest available dataset for supervised 3D face reconstruction. We achieve this by employing a novel data generation pipeline using conditioned Stable Diffusion. We introduce this large-scale synthesised dataset of 250K photorealistic images and corresponding 3DMM parameters. We further propose ControlFace, a deep neural network, trained on SynthFace, which achieves competitive performance on the NoW benchmark, without requiring 3D supervision or manual 3D asset creation."
 
 - project: "Text2Face: 3D Morpahble Faces From Text"
   role: "Lead Researcher"
