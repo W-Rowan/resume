@@ -1,14 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+
+
+- project: Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation
+  role: Lead Researcher
+  duration: 2023
+  url: "https://arxiv.org/pdf/2307.13639"
+  description: We present the largest publicly-available dataset for 3D face reconstruction. We achieve this by employing a novel data generation pipeline using conditioned Stable Diffusion. We introduce this large-scale synthesised dataset of 250K photorealistic images and corresponding 3DMM parameters. We further propose ControlFace, a deep neural network, trained on SynthFace, which achieves competitive performance on the NoW benchmark, without requiring 3D supervision or manual 3D asset creation.
+
+
+
+- project: Text2Face: 3D Morpahble Faces From Text
+  role: Lead Researcher
+  duration: 2023
+  url: "https://arxiv.org/pdf/2303.02688"
+  description: We present the first 3D morphable modelling approach, whereby 3D face shape can be directly and completely defined using a textual prompt. Building on work in multi-modal learning, we extend the FLAME head model to a common image-and-text latent space. This allows for direct 3D Morphable Model (3DMM) parameter generation and therefore shape manipulation from textual descriptions.
+
+
 - project: The Effectiveness of Temporal Dependency in Deepfake Video Detection
   role: Lead Researcher
   duration: 2020
   url: "https://arxiv.org/abs/2205.06684"
   description: We find that temporal dependency produces a statistically significant (p < 0.05) increase in performance in classifying real images for the model using automatic feature selection, demonstrating that spatio-temporal information can increase the performance of deepfake video detection models.
 
-# Springfield Community Outreach Group
+
 - project: Gaze Estimation Using Deep Learning
   role: Lead Researcher
   duration: 2019
